@@ -2,6 +2,8 @@
 
 [GitHub Pages](https://tsukker.github.io/dominion-supply-selector/)
 
+![Dominion Supply Selector Demo](https://user-images.githubusercontent.com/17353321/118359443-7a960d80-b5be-11eb-822c-f2a788ab7a84.gif)
+
 ## Links
 
 - [Dominion Online](https://dominion.games/)
