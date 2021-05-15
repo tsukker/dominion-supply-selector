@@ -1,6 +1,7 @@
 'use strict';
 
 const extractCardNames = function (s) {
+  s = s.replace(/\n/g, '');
   const re = /\s+/;
   const cardNames = Array();
   s.split(re).forEach((text) => {
