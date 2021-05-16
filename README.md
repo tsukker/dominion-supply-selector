@@ -1,6 +1,8 @@
 # Dominion Supply Selector
 
-[GitHub Pages](https://tsukker.github.io/dominion-supply-selector/)
+You can try from [here](https://tsukker.github.io/dominion-supply-selector/) (GitHub Pages)
+
+## Demo
 
 ![Dominion Supply Selector Demo](https://user-images.githubusercontent.com/17353321/118359443-7a960d80-b5be-11eb-822c-f2a788ab7a84.gif)
 
